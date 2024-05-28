@@ -1,5 +1,5 @@
 Git is a distributed version control system.
-Git is a free software distributed under the GPL.
+Git is A free software distributed under the GPL.
 Git has a mutable index called stage.
 test on stage3
 creating a new branch is so quick and simple
